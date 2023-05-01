@@ -1,3 +1,7 @@
+<p align="center">
+    <image src="assets/cover.jpeg">
+</p>
+
 # Anime Recommendation
 
 This is an academic project based on Recommendation Systems for recommending Animes based on user interactions.
@@ -30,8 +34,8 @@ The following recommendation models are explored in this project:
 ## Requirements
 
 Apart from the Python programming language and other standard packages like numpy, pandas, and others, the following key packages are required for the project:
-- Tensorflow
-- Tensorflow Recommenders
+- `Tensorflow`
+- `Tensorflow Recommenders`
 
 **To install:**
 
